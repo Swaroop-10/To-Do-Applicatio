@@ -1,2 +1,2 @@
-# To-Do-Applicatio
+# To-Do-Application
 HTML - CSS - JS
