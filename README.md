@@ -9,7 +9,7 @@
 
 ### General Info:
 **********************************************************************************************************************************************************
-This Website page showcases the To-Do Application. In this project, I have used HTML - CSS - JS. It is a commonly required application for everyday use. Keeping it simple to add new To-do tasks, deleting the Done tasks with the Clear All function, and retaining the task after refreshing via local storage. You can enable the Add ("+") button only after writing in the input box. You can enable Clear All tasks only after a pending task is present. The delete button is displayed only on the hover of the specific task. You can also see the count of pending tasks at the footer.
+This Website page showcases the To-Do Application. In this project, I have used HTML - CSS - JS. It is a commonly required application for everyday use. Keeping it simple to add new To-do tasks, deleting the Done tasks with the delete button, Clear All tasks button to empty all the listed tasks, retaining the task even after refreshing the page via local storage. You can enable the Add ("+") button only after writing in the input box. You can enable Clear All tasks only after a single or more pending task is present. The delete button is displayed only on the hover of the task. You can also see the count of pending tasks at the footer. Simple.Functional.To-Do App
 
 ### Technologies:
 **********************************************************************************************************************************************************
